@@ -1,0 +1,74 @@
+{
+	"server": "https:\/\/retargetim.herokuapp.com",
+	"serverAdd": "",
+	"isFullSSL": false,
+	"fcm": {
+		"api_key": "AIzaSyANmE_A4Kqudz1iOGpFMLpZdv0675eAK48",
+		"authDomain": "retargetim-71b8e.firebaseapp.com",
+		"messagingSenderId": "280741389582"
+	},
+	"plans": {
+		"isEnabled": 1,
+		"checkDate": ""
+	},
+	"settings": [{
+		"Id": "Enabled",
+		"Display": "Opt-in invitation is enabled",
+		"Type": "checkbox",
+		"Value": 1
+	},
+	{
+		"Id": "AllSite",
+		"Display": "Show Opt-in invitation in all pages (not only store)",
+		"Type": "checkbox",
+		"Value": 0
+	},
+	{
+		"Id": "invitationTextHeader",
+		"Display": "Header",
+		"Type": "text",
+		"Value": "Get in on the good stuff"
+	},
+	{
+		"Id": "invitationTextBody",
+		"Display": "Body (Desktop)",
+		"Type": "text",
+		"Value": "Click Allow to get notifications for sales and special offers that are available only to our subscribers"
+	},
+	{
+		"Id": "invitationTextBodyMobile",
+		"Display": "Body (Mobile)",
+		"Type": "text",
+		"Value": "Click Allow to get notifications for sales and special offers that are available only to our subscribers"
+	},
+	{
+		"Id": "invitationTextFooter",
+		"Display": "Footer",
+		"Type": "text",
+		"Value": "Remove yourself at any time, no personal details required (not even e-mail). Just Click here:"
+	},
+	{
+		"Id": "invitationColor",
+		"Display": "Background Color",
+		"Type": "Color",
+		"Value": "#ffffff"
+	},
+	{
+		"Id": "invitationTextColor",
+		"Display": "Text Color",
+		"Type": "Color",
+		"Value": "#727272"
+	},
+	{
+		"Id": "invitationBorderColor",
+		"Display": "Border Color",
+		"Type": "Color",
+		"Value": "#000000"
+	},
+	{
+		"Id": "invitationHeadColor",
+		"Display": "Header Color",
+		"Type": "Color",
+		"Value": "#000000"
+	}]
+}
